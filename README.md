@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML and CSS.
 - 👯 I’m looking to collaborate on apps created with React and JS/TS and creation of websites with CSS, JS, and HTML. 
 - 🤔 I’m looking for help with JS.
-- 📖 I know some C++, HTML, and Python, but don't ask me are pointers for. 
+- 📖 I know some a little bit of everything, but don't ask me what are pointers for. 
 - 💬 Ask me about whatever you want! I'll try answering to the best of my knowledge. But I am slow to answer.
 - 🎵 Fun fact: I also produce music and sing. Being an artist is my biggest dream.
 
