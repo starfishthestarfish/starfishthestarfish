@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/her
 - 🔭 I'm working on becoming a front end developer.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML, JavaScript, and CSS.
 - 👯 I’m looking to collaborate on apps created with React and JS/TS and creation of websites with CSS, JS, and HTML. 
 - 🤔 I’m looking for help with JS.
 - 📖 I know some a little bit of everything, but don't ask me what are pointers for. 
