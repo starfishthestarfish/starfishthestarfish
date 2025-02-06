@@ -1,13 +1,9 @@
 ### Hi! My name is Alex.
 
-- 😄 Pronouns: she/her
-- 🔭 I'm working on becoming a front end developer.
+- 🔭 I'm working on becoming a front-end developer.
 - 🌱 I’m currently learning HTML, JavaScript, and CSS.
-- 👯 I’m looking to collaborate on apps created with React and JS/TS and creation of websites with CSS, JS, and HTML. 
-- 🤔 I’m looking for help with JS.
-- 📖 I know a little bit of everything, but don't ask me what are pointers for. 
-- 💬 Ask me about whatever you want! I'll try answering to the best of my knowledge. But I am slow to answer.
-- 🎵 Fun fact: I also produce music and sing. Being an artist is my biggest dream.
+- 📖 I’m looking forward to learning React Native. 
+- 🎵 Fun fact: I also produce music, write, and sing.
 
 <!--
 **starfishthestarfish/starfishthestarfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
